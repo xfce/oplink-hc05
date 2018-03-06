@@ -20,7 +20,7 @@ Play with Openpilot's OPlink with HC05, design a PCB use RF MODULE 100mW or 1W
 
 6）Devo-7E配置成ppm输出，连接模块，控制飞控。
 
-![PCBA](https://github.com/xfce/oplink-hc05/raw/master/Oplink-hc05_V1.0/img/hc05.png)
+![PCBA](https://github.com/xfce/oplink-hc05/raw/master/Oplink-hc05_V1.0/img/hc05.jpg)
 
 ### 二、3D PCB & PCBA
 

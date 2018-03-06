@@ -25,8 +25,7 @@ Play with Openpilot's OPlink with HC05, design a PCB use RF MODULE 100mW or 1W
 ### 二、3D PCB & PCBA
 
 3D_PCB_TOP
-![3D_PCB_TOP](https://github.com/xfce/oplink-hc05/blob/master/Oplink-hc05-V1.0/img/3DPCBtop.png)
-
+![3D_PCB_TOP](https://github.com/xfce/oplink-hc05/raw/master/Oplink-hc05_V1.0/img/3DPCBtop.png)
 
 3D_PCB_BOTTOM
 ![3D_PCB_BOTTOM](https://github.com/xfce/oplink-hc05/raw/master/Oplink-hc05_V1.0/img/3Dpcbbottom.png) 

@@ -45,6 +45,7 @@ FIXED
 
 ![fixed](https://github.com/xfce/oplink-hc05/raw/master/Oplink-hc05_V1.0/img/fixed.png)
 
+
 ### 三、视频演示
 
-<embed src='http://player.youku.com/player.php/sid/XMTcyODU3Njg3Ng==/v.swf' allowFullScreen='true' quality='high' width='480' height='400' align='middle' allowScriptAccess='always' type='application/x-shockwave-flash'></embed>
+http://v.youku.com/v_show/id_XMTcyODU3Njg3Ng==.html?spm=a2hzp.8244740.0.0
